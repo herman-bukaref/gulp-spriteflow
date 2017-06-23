@@ -1,7 +1,7 @@
 {
   "name": "gulp-spriteflow",
   "description": "Convert a set of images into a sprite IMG+STYLES bundles via gulp",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Herman Bukaref",
     "email": "herman.bukaref@gmail.com",
