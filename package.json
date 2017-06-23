@@ -1,7 +1,7 @@
 {
   "name": "gulp-spriteflow",
   "description": "Convert a set of images into a sprite IMG+STYLES bundles via gulp",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "author": {
     "name": "Herman Bukaref",
     "email": "herman.bukaref@gmail.com",
@@ -61,6 +61,6 @@
   "optionalDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git://github.com/twolfson/gulp.spritesmith.git"
+    "url": "git://github.com/herman-bukaref/gulp-spriteflow.git"
   }
 }
